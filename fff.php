@@ -74,11 +74,3 @@ include("config.php");
 </div>
 </body>
 </html>
-
-
-https:%252F%252Fgithub.com%252FiMeed%252FRFI%252Fblob%252Fmaster%252Frfi.php
-
-
-
-
-/iMeed/RFI/blob/master/rfi.php
